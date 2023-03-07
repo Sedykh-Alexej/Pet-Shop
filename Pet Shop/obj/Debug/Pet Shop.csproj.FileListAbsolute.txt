@@ -1,0 +1,376 @@
+C:\Users\Blockchain\source\repos\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csprojAssemblyReference.cache
+C:\Users\Blockchain\source\repos\Pet Shop\Pet Shop\obj\Debug\MainWindow.g.cs
+C:\Users\Blockchain\source\repos\Pet Shop\Pet Shop\obj\Debug\App.g.cs
+C:\Users\Blockchain\source\repos\Pet Shop\Pet Shop\obj\Debug\Pet Shop_MarkupCompile.cache
+C:\Users\Blockchain\source\repos\Pet Shop\Pet Shop\obj\Debug\Pet Shop_MarkupCompile.lref
+C:\Users\Blockchain\source\repos\Pet Shop\Pet Shop\bin\Debug\Pet Shop.exe.config
+C:\Users\Blockchain\source\repos\Pet Shop\Pet Shop\bin\Debug\Pet Shop.exe
+C:\Users\Blockchain\source\repos\Pet Shop\Pet Shop\bin\Debug\Pet Shop.pdb
+C:\Users\Blockchain\source\repos\Pet Shop\Pet Shop\obj\Debug\App.baml
+C:\Users\Blockchain\source\repos\Pet Shop\Pet Shop\obj\Debug\First_style.baml
+C:\Users\Blockchain\source\repos\Pet Shop\Pet Shop\obj\Debug\MainWindow.baml
+C:\Users\Blockchain\source\repos\Pet Shop\Pet Shop\obj\Debug\Second_style.baml
+C:\Users\Blockchain\source\repos\Pet Shop\Pet Shop\obj\Debug\Pet Shop.g.resources
+C:\Users\Blockchain\source\repos\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.Properties.Resources.resources
+C:\Users\Blockchain\source\repos\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.GenerateResource.cache
+C:\Users\Blockchain\source\repos\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.CoreCompileInputs.cache
+C:\Users\Blockchain\source\repos\Pet Shop\Pet Shop\obj\Debug\Pet Shop.exe
+C:\Users\Blockchain\source\repos\Pet Shop\Pet Shop\obj\Debug\Pet Shop.pdb
+C:\Users\Blockchain\source\repos\Pet Shop\Pet Shop\obj\Debug\Authorization.g.cs
+C:\Users\Blockchain\source\repos\Pet Shop\Pet Shop\obj\Debug\Authorization.baml
+C:\Users\Blockchain\source\repos\Pet Shop\Pet Shop\bin\Debug\sound\ЗвукШарика.mp3
+C:\Users\Blockchain\source\repos\Pet Shop\Pet Shop\obj\Debug\Pet Shop_Content.g.cs
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\sound\ЗвукШарика.mp3
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Pet Shop.exe.config
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Pet Shop.exe
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Pet Shop.pdb
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csprojAssemblyReference.cache
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\Authorization.g.cs
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\MainWindow.g.cs
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\App.g.cs
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\Pet Shop_Content.g.cs
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\Pet Shop_MarkupCompile.cache
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\Pet Shop_MarkupCompile.lref
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\App.baml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\Authorization.baml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\First_style.baml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\MainWindow.baml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\Second_style.baml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\Pet Shop.g.resources
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.GenerateResource.cache
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\Pet Shop.exe
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\Pet Shop.pdb
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\WPFToolkit.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.CopyComplete
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\Stylee.g.cs
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\Stylee.baml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\EntityFramework.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\System.Buffers.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\System.Memory.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\EntityFramework.xml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\System.Buffers.xml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\System.Memory.xml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\Accountant.g.cs
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\Cashier.g.cs
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\Chief.g.cs
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\Accountant.baml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\Cashier.baml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\Chief.baml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\Contact_Information.g.cs
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\Contact_Information.baml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\EditPassword.g.cs
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\EditPassword.baml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\Calculator.g.cs
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\Calculator.baml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\Animal.g.cs
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\Animal.baml
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\shopping_room.g.cs
+C:\Users\Алексей\Desktop\Pet Shop\Pet Shop\obj\Debug\shopping_room.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csprojAssemblyReference.cache
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Authorization.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Accountant.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Animal.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Authorization.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Calculator.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Cashier.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Chief.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Contact_Information.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\EditPassword.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\EditSales.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\MainWindow.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Sales.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Stylee.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\App.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Pet Shop_Content.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Pet Shop_MarkupCompile.cache
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Pet Shop_MarkupCompile.lref
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Pet Shop.exe
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Pet Shop.pdb
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\sound\ЗвукШарика.mp3
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Pet Shop.exe.config
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Pet Shop.exe
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Pet Shop.pdb
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\EntityFramework.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\System.Buffers.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\System.Memory.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\WPFToolkit.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\EntityFramework.xml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\System.Buffers.xml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\System.Memory.xml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\App.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Accountant.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Animal.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Calculator.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Cashier.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Chief.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Contact_Information.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\EditPassword.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\EditSales.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\First_style.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\MainWindow.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Sales.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Second_style.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Stylee.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Pet Shop.g.resources
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.GenerateResource.cache
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.CopyComplete
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Postav.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\EditPostav.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Postav.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\EditPostav.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Animal2.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\EditAnimal2.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Animal2.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\EditAnimal2.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\EditPost.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Post.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\EditPost.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Post.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\EditSotrudniki.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Sotrudniki.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Отчёт.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\EditSotrudniki.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Sotrudniki.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Pet Shop\Pet Shop\obj\Debug\Отчёт.baml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\sound\ЗвукШарика.mp3
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Pet Shop.exe.config
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Pet Shop.exe
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Pet Shop.pdb
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\EntityFramework.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\System.Buffers.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\System.Memory.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\WPFToolkit.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\EntityFramework.xml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\System.Buffers.xml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\System.Memory.xml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csprojAssemblyReference.cache
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Authorization.baml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Accountant.g.cs
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Animal.g.cs
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Animal2.g.cs
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Authorization.g.cs
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Calculator.g.cs
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Cashier.g.cs
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Chief.g.cs
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Contact_Information.g.cs
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\EditAnimal2.g.cs
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\EditPassword.g.cs
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\EditPost.g.cs
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\EditPostav.g.cs
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\EditSales.g.cs
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\EditSotrudniki.g.cs
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\MainWindow.g.cs
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Post.g.cs
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Postav.g.cs
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Sales.g.cs
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Sotrudniki.g.cs
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Stylee.g.cs
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Отчёт.g.cs
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\App.g.cs
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Pet Shop_Content.g.cs
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Pet Shop_MarkupCompile.cache
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Pet Shop_MarkupCompile.lref
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\App.baml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Accountant.baml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Animal.baml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Animal2.baml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Calculator.baml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Cashier.baml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Chief.baml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Contact_Information.baml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\EditAnimal2.baml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\EditPassword.baml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\EditPost.baml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\EditPostav.baml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\EditSales.baml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\EditSotrudniki.baml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\First_style.baml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\MainWindow.baml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Post.baml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Postav.baml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Sales.baml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Second_style.baml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Sotrudniki.baml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Stylee.baml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Отчёт.baml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Pet Shop.g.resources
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.GenerateResource.cache
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.CopyComplete
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Pet Shop.exe
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\obj\Debug\Pet Shop.pdb
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\System.ValueTuple.dll
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\System.ValueTuple.xml
+C:\Users\Алексей\Desktop\Курсовой\Pet Shop\Pet Shop\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csprojAssemblyReference.cache
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\Authorization.baml
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\Accountant.g.cs
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\Animal.g.cs
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\Animal2.g.cs
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\Authorization.g.cs
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\Calculator.g.cs
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\Cashier.g.cs
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\Chief.g.cs
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\Contact_Information.g.cs
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\EditAnimal2.g.cs
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\EditPassword.g.cs
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\EditPost.g.cs
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\EditPostav.g.cs
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\EditSales.g.cs
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\EditSotrudniki.g.cs
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\MainWindow.g.cs
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\Post.g.cs
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\Postav.g.cs
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\Sales.g.cs
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\Sotrudniki.g.cs
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\Stylee.g.cs
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\Отчёт.g.cs
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\App.g.cs
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\Pet Shop_Content.g.cs
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\Pet Shop_MarkupCompile.cache
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\Pet Shop_MarkupCompile.lref
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\Pet Shop.exe
+D:\Учёба\Курсовой\Pet Shop\Pet Shop\obj\Debug\Pet Shop.pdb

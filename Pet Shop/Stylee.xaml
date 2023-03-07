@@ -1,0 +1,17 @@
+﻿<Page x:Class="Pet_Shop.Stylee"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Pet_Shop"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Stylee">
+
+    <Grid>
+        <Image Source="Resources/Turquoise-Dogs-and-Paw-Print-Cute-Zoom-Virtual-Background.png" Stretch="Fill"></Image>
+        <Button Content="Оранжевый стиль" Style="{DynamicResource ButtonStyle}" Margin="474,180,67,220" Height="50" Width="259" Click="OStylee"></Button>
+        <Button Content="Фиолетовый стиль" Style="{DynamicResource ButtonStyle}" Margin="76,180,465,220" Height="50" Width="259" Click="FStylee" RenderTransformOrigin="0.253,1.353"></Button>
+        <Button Content="Выход" Style="{DynamicResource ButtonStyle}" Margin="266,322,275,78" Height="50" Width="259" Click="Exit"></Button>
+    </Grid>
+</Page>

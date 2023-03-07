@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Book_houseModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Должности">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="Должность" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Зарплата" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Сотрудники" Relationship="Self.FK_Сотрудники_Должности" FromRole="Должности" ToRole="Сотрудники" />
+  </EntityType>
+  <EntityType Name="Клиенты">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="Фамилия" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Имя" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Отчество" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Адрес" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Телефон" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Рейтинг_клиента" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Книги_в_аренде" Relationship="Self.FK_Книги_в_аренде_Клиенты" FromRole="Клиенты" ToRole="Книги_в_аренде" />
+  </EntityType>
+  <EntityType Name="Книги">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="Название" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Жанр" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Цена" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Комментарий" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Количество" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Книги_в_аренде" Relationship="Self.FK_Книги_в_аренде_Книги" FromRole="Книги" ToRole="Книги_в_аренде" />
+    <NavigationProperty Name="Поставки" Relationship="Self.FK_Поставки_Книги" FromRole="Книги" ToRole="Поставки" />
+    <NavigationProperty Name="Списание_книг" Relationship="Self.FK_Списание_книг_Книги" FromRole="Книги" ToRole="Списание_книг" />
+  </EntityType>
+  <EntityType Name="Книги_в_аренде">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="id_Сотрудника" Type="Int32" Nullable="false" />
+    <Property Name="id_Клиента" Type="Int32" Nullable="false" />
+    <Property Name="id_Книги" Type="Int32" Nullable="false" />
+    <Property Name="Дата_получения" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Дата_воврата" Type="DateTime" Nullable="false" Precision="0" />
+    <NavigationProperty Name="Клиенты" Relationship="Self.FK_Книги_в_аренде_Клиенты" FromRole="Книги_в_аренде" ToRole="Клиенты" />
+    <NavigationProperty Name="Книги" Relationship="Self.FK_Книги_в_аренде_Книги" FromRole="Книги_в_аренде" ToRole="Книги" />
+  </EntityType>
+  <EntityType Name="Поставки">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="id_Поставщика" Type="Int32" Nullable="false" />
+    <Property Name="id_Книги" Type="Int32" Nullable="false" />
+    <Property Name="Количество" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Дата_поставки" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="id_сотрудника" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Книги" Relationship="Self.FK_Поставки_Книги" FromRole="Поставки" ToRole="Книги" />
+    <NavigationProperty Name="Поставщики" Relationship="Self.FK_Поставки_Поставщики" FromRole="Поставки" ToRole="Поставщики" />
+    <NavigationProperty Name="Сотрудники" Relationship="Self.FK_Поставки_Сотрудники" FromRole="Поставки" ToRole="Сотрудники" />
+  </EntityType>
+  <EntityType Name="Поставщики">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="Наименование" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Адрес" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Телефон" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Поставки" Relationship="Self.FK_Поставки_Поставщики" FromRole="Поставщики" ToRole="Поставки" />
+  </EntityType>
+  <EntityType Name="Сотрудники">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="Фамилия" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Имя" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Отчество" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Должность" Type="Int32" Nullable="false" />
+    <Property Name="Адрес" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Телефон" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Пароль" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Стиль" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="График_работы" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Должности" Relationship="Self.FK_Сотрудники_Должности" FromRole="Сотрудники" ToRole="Должности" />
+    <NavigationProperty Name="Поставки" Relationship="Self.FK_Поставки_Сотрудники" FromRole="Сотрудники" ToRole="Поставки" />
+    <NavigationProperty Name="Списание_книг" Relationship="Self.FK_Списание_книг_Сотрудники" FromRole="Сотрудники" ToRole="Списание_книг" />
+  </EntityType>
+  <EntityType Name="Списание_книг">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="id_Книги" Type="Int32" Nullable="false" />
+    <Property Name="Количество" Type="Int32" Nullable="false" />
+    <Property Name="Причина" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="id_сотрудника" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Книги" Relationship="Self.FK_Списание_книг_Книги" FromRole="Списание_книг" ToRole="Книги" />
+    <NavigationProperty Name="Сотрудники" Relationship="Self.FK_Списание_книг_Сотрудники" FromRole="Списание_книг" ToRole="Сотрудники" />
+  </EntityType>
+  <Association Name="FK_Сотрудники_Должности">
+    <End Role="Должности" Type="Self.Должности" Multiplicity="1" />
+    <End Role="Сотрудники" Type="Self.Сотрудники" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Должности">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Сотрудники">
+        <PropertyRef Name="Должность" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Книги_в_аренде_Клиенты">
+    <End Role="Клиенты" Type="Self.Клиенты" Multiplicity="1" />
+    <End Role="Книги_в_аренде" Type="Self.Книги_в_аренде" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Клиенты">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Книги_в_аренде">
+        <PropertyRef Name="id_Клиента" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Книги_в_аренде_Книги">
+    <End Role="Книги" Type="Self.Книги" Multiplicity="1" />
+    <End Role="Книги_в_аренде" Type="Self.Книги_в_аренде" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Книги">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Книги_в_аренде">
+        <PropertyRef Name="id_Книги" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Поставки_Книги">
+    <End Role="Книги" Type="Self.Книги" Multiplicity="1" />
+    <End Role="Поставки" Type="Self.Поставки" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Книги">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Поставки">
+        <PropertyRef Name="id_Книги" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Списание_книг_Книги">
+    <End Role="Книги" Type="Self.Книги" Multiplicity="1" />
+    <End Role="Списание_книг" Type="Self.Списание_книг" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Книги">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Списание_книг">
+        <PropertyRef Name="id_Книги" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Поставки_Поставщики">
+    <End Role="Поставщики" Type="Self.Поставщики" Multiplicity="1" />
+    <End Role="Поставки" Type="Self.Поставки" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Поставщики">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Поставки">
+        <PropertyRef Name="id_Поставщика" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Поставки_Сотрудники">
+    <End Role="Сотрудники" Type="Self.Сотрудники" Multiplicity="1" />
+    <End Role="Поставки" Type="Self.Поставки" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Сотрудники">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Поставки">
+        <PropertyRef Name="id_сотрудника" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Списание_книг_Сотрудники">
+    <End Role="Сотрудники" Type="Self.Сотрудники" Multiplicity="1" />
+    <End Role="Списание_книг" Type="Self.Списание_книг" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Сотрудники">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Списание_книг">
+        <PropertyRef Name="id_сотрудника" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Book_houseEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="Должности" EntityType="Self.Должности" />
+    <EntitySet Name="Клиенты" EntityType="Self.Клиенты" />
+    <EntitySet Name="Книги" EntityType="Self.Книги" />
+    <EntitySet Name="Книги_в_аренде" EntityType="Self.Книги_в_аренде" />
+    <EntitySet Name="Поставки" EntityType="Self.Поставки" />
+    <EntitySet Name="Поставщики" EntityType="Self.Поставщики" />
+    <EntitySet Name="Сотрудники" EntityType="Self.Сотрудники" />
+    <EntitySet Name="Списание_книг" EntityType="Self.Списание_книг" />
+    <AssociationSet Name="FK_Сотрудники_Должности" Association="Self.FK_Сотрудники_Должности">
+      <End Role="Должности" EntitySet="Должности" />
+      <End Role="Сотрудники" EntitySet="Сотрудники" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Книги_в_аренде_Клиенты" Association="Self.FK_Книги_в_аренде_Клиенты">
+      <End Role="Клиенты" EntitySet="Клиенты" />
+      <End Role="Книги_в_аренде" EntitySet="Книги_в_аренде" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Книги_в_аренде_Книги" Association="Self.FK_Книги_в_аренде_Книги">
+      <End Role="Книги" EntitySet="Книги" />
+      <End Role="Книги_в_аренде" EntitySet="Книги_в_аренде" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Поставки_Книги" Association="Self.FK_Поставки_Книги">
+      <End Role="Книги" EntitySet="Книги" />
+      <End Role="Поставки" EntitySet="Поставки" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Списание_книг_Книги" Association="Self.FK_Списание_книг_Книги">
+      <End Role="Книги" EntitySet="Книги" />
+      <End Role="Списание_книг" EntitySet="Списание_книг" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Поставки_Поставщики" Association="Self.FK_Поставки_Поставщики">
+      <End Role="Поставщики" EntitySet="Поставщики" />
+      <End Role="Поставки" EntitySet="Поставки" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Поставки_Сотрудники" Association="Self.FK_Поставки_Сотрудники">
+      <End Role="Сотрудники" EntitySet="Сотрудники" />
+      <End Role="Поставки" EntitySet="Поставки" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Списание_книг_Сотрудники" Association="Self.FK_Списание_книг_Сотрудники">
+      <End Role="Сотрудники" EntitySet="Сотрудники" />
+      <End Role="Списание_книг" EntitySet="Списание_книг" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

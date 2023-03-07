@@ -1,0 +1,17 @@
+﻿<Page x:Class="Pet_Shop.Отчёт"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Pet_Shop"
+      mc:Ignorable="d" 
+      d:DesignHeight="675" d:DesignWidth="1036"
+      Title="Отчёт">
+
+    <Grid>
+        <Image Source="Resources/Turquoise-Dogs-and-Paw-Print-Cute-Zoom-Virtual-Background.png" Stretch="Fill"></Image>
+        <Label x:Name="txtRaba" Style="{DynamicResource CustomLabel}"  Content="За смену заработано:" Margin="14,284,31,344" Width="991" Height="47" FontSize="25"></Label>
+        <Label x:Name="txtRab" Style="{DynamicResource CustomLabel}"  Content="Потраченно на поставках:" Margin="14,365,31,263" Width="991" Height="47" FontSize="25"></Label>
+        <Button Content="Назад" Click="Exit" Style="{DynamicResource ButtonStyle}" Margin="380,552,343,73" Height="50" Width="313"/>
+    </Grid>
+</Page>

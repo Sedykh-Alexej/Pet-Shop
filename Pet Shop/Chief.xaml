@@ -1,0 +1,21 @@
+﻿<Page x:Class="Pet_Shop.Chief"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Pet_Shop"
+      mc:Ignorable="d" 
+      d:DesignHeight="675" d:DesignWidth="1036"
+      Title="Chief">
+
+    <Grid>
+        <Image Source="Resources/Turquoise-Dogs-and-Paw-Print-Cute-Zoom-Virtual-Background.png" Stretch="Fill"></Image>
+        <Label x:Name="txtRab" Style="{DynamicResource CustomLabel}"  Content="Приветствуем вас на рабочем месте" Margin="14,26,31,602" Width="991" Height="47" FontSize="25"></Label>
+        <Button Content="Изменение пароля"  Style="{DynamicResource ButtonStyle}" Margin="767,166,31,459" Height="50" Width="238" Click="EditParol"></Button>
+        <Button Content="Изменение контактной информации"  Style="{DynamicResource ButtonStyle}" Margin="578,89,31,536" Height="50" Width="427" Click="ИзмКонтИнФор"></Button>
+        <Button Content="Отчёт за рабочий день"  Style="{DynamicResource ButtonStyle}" Margin="380,283,343,342" Width="313" Height="50" Click="Отчёт"></Button>
+        <Button Content="Калькулятор"  Style="{DynamicResource ButtonStyle}" Margin="27,198,766,427" Width="243" Height="50" Click="Calculator"></Button>
+        <Button Content="Сотрудники"  Style="{DynamicResource ButtonStyle}"  Margin="380,416,343,209" Width="313" Height="50" Click="Animals"></Button>
+        <Button Content="Выйти из учётной записи" Click="Exit" Style="{DynamicResource ButtonStyle}" Margin="380,552,343,73" Height="50" Width="313"></Button>
+    </Grid>
+</Page>
